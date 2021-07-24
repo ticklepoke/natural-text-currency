@@ -1,11 +1,14 @@
 {
 	"name": "@ticklepoke/natural-text-currency",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "A parser combinator for parsing currency written in natural text",
 	"main": "index.js",
 	"author": "ticklepoke",
 	"license": "MIT",
 	"private": false,
+	"publishConfig": {
+		"access": "public"
+	},
 	"scripts": {
 		"dev": "ts-node src/index.ts",
 		"watch": "nodemon --watch 'src/**/*.ts' --ignore '**/*.test.ts' --exec 'ts-node' src/index.ts",
