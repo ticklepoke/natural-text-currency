@@ -1,6 +1,6 @@
 {
 	"name": "@ticklepoke/natural-text-currency",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"description": "A parser combinator for parsing currency written in natural text",
 	"main": "index.js",
 	"author": "ticklepoke",
