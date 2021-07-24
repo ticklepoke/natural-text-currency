@@ -4,6 +4,7 @@
 	"description": "A parser combinator for parsing currency written in natural text",
 	"main": "index.js",
 	"author": "ticklepoke",
+	"repository": "https://github.com/ticklepoke/natural-text-currency",
 	"license": "MIT",
 	"private": false,
 	"publishConfig": {
